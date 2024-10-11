@@ -1,4 +1,4 @@
-# OllamaCardMaker
+# Ollama-CardMaker
 Status: Early Alpha - Do not use.
 
 Description:
