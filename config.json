@@ -1,0 +1,5 @@
+{
+    "model_directory": "/path/to/default/model_directory",
+    "output_directory": "/path/to/default/output_directory",
+    "huggingface_token": "your_huggingface_token_here"
+}
